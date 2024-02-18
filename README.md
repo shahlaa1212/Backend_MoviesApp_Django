@@ -1,4 +1,4 @@
-# 🎬 Movie App 
+# 🎬 Movie Project
 This project for move app specific backend in django
 
 ## 🛠 Installation 
