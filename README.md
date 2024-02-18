@@ -26,6 +26,19 @@ python manage.py makemigrations
 ```bash
 python manage.py migrate
 ```
+## 📒 Usage
+### 🖋 Create SuperUser
+```bash
+python manage.py createsuperuser
+```
+## ♻️ Environment Setup
+
+Before running the application, you need to set up your environment variables by creating a `.env` file in the root directory of the project. Below is an example of the required content for the `.env` file:
+
+### 🔥 Run the server
+```bash
+python manage.py runserver
+```
 ## 🙏 Contributing 🫱🏼‍🫲🏻
 Contributions are welcome! If you'd like to contribute to the project.
 
