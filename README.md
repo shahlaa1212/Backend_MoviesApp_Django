@@ -8,7 +8,7 @@
 </p>
 
 ## 🎬 Movie Project
-This project for move app specific backend in django
+Welcome to the move project specific backend in django! this project Displays all movies smooth, There is a feature to search for a specific movieو
 
 ## 🛠 Installation 
 
