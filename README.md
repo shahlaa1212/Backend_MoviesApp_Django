@@ -8,7 +8,7 @@
 </p>
 
 ## 🎬 Movie Project
-Welcome to the move project specific backend in django! this project Displays all movies smooth, There is a feature to search for a specific movieو
+Welcome to the move project specific backend using Django Ninja - Django REST framework! this project Displays all movies smooth, There is a feature to search for a specific movie
 
 ## 🛠 Installation 
 
