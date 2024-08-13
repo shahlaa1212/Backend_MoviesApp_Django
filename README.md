@@ -46,7 +46,7 @@ Welcome to the move project specific backend using Django Ninja - Django REST fr
  ```bash
  python manage.py createsuperuser
  ```
-## ♻️ Environment Setup
+## ⚒ Environment Setup
 
 Before running the application, you need to set up your environment variables by creating a `.env` file in the root directory of the project. Below is an example of the required content for the `.env` file:
 
@@ -55,6 +55,9 @@ Before running the application, you need to set up your environment variables by
  ```bash
  python manage.py runserver
  ```
+## 🙌 Credits
+This app was created as a part of my journey with The [The Computiq](https://github.com/computiq-training).
+
 ## 🙏 Contributing 🫱🏼‍🫲🏻
 Contributions are welcome! If you'd like to contribute to the project.
 
